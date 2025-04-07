@@ -31,3 +31,14 @@ Thumbs.db
 *.bak
 *.tmp
 *.temp
+
+# Angular specific
+.angular/
+.angular-cache/
+*.ngfactory.ts
+*.ngsummary.json
+*.ngstyle.ts
+*.ngsummary.ts
+*.ngfactory.js
+*.ngstyle.js
+*.ngsummary.js
